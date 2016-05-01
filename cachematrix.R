@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## testing with git
+## testing 2 - move
 
 makeCacheMatrix <- function(x = matrix()) {
 
